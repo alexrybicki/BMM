@@ -54,7 +54,7 @@ body {
     transform: translate(-50%, -50%);
     filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3));
 }
-.container-lg, h1 {
+.container-lg, h1, a {
     background: transparent !important;
     border: none !important;
     box-shadow: none !important;
