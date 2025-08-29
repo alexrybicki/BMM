@@ -6,7 +6,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #000;
+    background-color: #15161cde;
     color: #fff;
     font-family: 'Arial', sans-serif;
     justify-content: center;
