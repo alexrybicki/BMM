@@ -65,6 +65,9 @@ body {
     height: 100vh !important;
     position: relative !important;
 }
+a {
+    display: none;
+}
 @keyframes fadeOut {
     0% {
         opacity: 1;
