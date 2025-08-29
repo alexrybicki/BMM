@@ -1,4 +1,3 @@
-# BMM Development Status
 
 <div id="question" class="question-text">Is the BMM in development?</div>
 <div id="answer" class="answer-text">NO</div>
