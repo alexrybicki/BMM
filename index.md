@@ -1,4 +1,4 @@
-
+<head>  <meta name="darkreader-lock" /></head>
 <div id="question" class="question-text">Is the BMM in development?</div>
 <div id="answer" class="answer-text">NO</div>
 <div id="emoji" class="emoji-text">😡</div>
